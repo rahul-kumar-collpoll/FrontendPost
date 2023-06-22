@@ -1,0 +1,118 @@
+* {
+  margin: 0;
+}
+  .content {
+    background: #999;
+    color: #000; 
+  }
+
+  .actionBlock{
+      
+    box-shadow: #666;
+    text-align: center ;
+    align-items: center;
+  }
+  .option {
+    width: 100%;
+    height: 4rem; 
+    padding-top: 1rem;
+    border-radius: 5px;
+    background-color: #666;
+    border: 1px solid #bab0b0;
+  }
+  .postBtn {
+    width: 15%;
+    margin-left: 1rem;
+  }
+  .textBox {
+    width:100%;
+    box-shadow: none;
+  }
+  .card-header{
+    width:100%;
+  }
+  .text-center{
+    text-align: left;
+    margin-left: 10px;
+  }
+  ul{
+    list-style: none;
+  }
+  .columns{
+    display: flex;
+    flex:1;
+  }
+  .red {
+    color: red;   
+  }
+ 
+  .main{
+    padding-top: 1rem;
+    background: #eee;
+  }
+  .sidebar-first{
+    background: #ccc;
+  }
+  .sidebar-second{ 
+    background: #ddd;
+  }
+
+.image{
+  height:3rem;
+  width:3rem;
+}
+.card-header{
+  margin-left: 0.2px;
+}
+.name {
+  font-size:larger;
+  font-weight: bold;
+  padding-top: 0.5rem;
+}
+.custom-card{
+    width:100%;
+}
+
+.dp{
+   float: right;
+    width: 3rem;
+    height: 3rem;
+    text-align: center;
+    box-shadow: none;
+}
+.list-comment{
+  list-style-type:none;
+  font-size:15px;
+}
+.inp{
+    width:100%;
+}
+.add-comment{
+  margin-left:0.01rem ;
+}
+.addCommentButton{
+  width: 80%;
+}
+.btn-comment{
+  margin-left:10px;
+  margin-bottom:4px;
+}
+.comment-drop{
+  margin-left:-100px;
+  margin-bottom:50px;
+  margin-top:-12px;
+}
+
+.dropdown-item{
+  font-size: medium;
+}
+.nav-link {
+  box-shadow: none;
+}
+.nav-tabs .nav-link{
+  border: none;
+}
+.dropdown-item{
+  box-shadow: none;
+  background-color: white;
+}
